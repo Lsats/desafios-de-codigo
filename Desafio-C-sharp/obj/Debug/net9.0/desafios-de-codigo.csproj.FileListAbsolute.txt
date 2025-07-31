@@ -1,0 +1,15 @@
+D:\Study\desafios-de-codigo\Desafio-C-sharp\bin\Debug\net9.0\desafios-de-codigo.exe
+D:\Study\desafios-de-codigo\Desafio-C-sharp\bin\Debug\net9.0\desafios-de-codigo.deps.json
+D:\Study\desafios-de-codigo\Desafio-C-sharp\bin\Debug\net9.0\desafios-de-codigo.runtimeconfig.json
+D:\Study\desafios-de-codigo\Desafio-C-sharp\bin\Debug\net9.0\desafios-de-codigo.dll
+D:\Study\desafios-de-codigo\Desafio-C-sharp\bin\Debug\net9.0\desafios-de-codigo.pdb
+D:\Study\desafios-de-codigo\Desafio-C-sharp\obj\Debug\net9.0\desafios-de-codigo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\desafios-de-codigo\Desafio-C-sharp\obj\Debug\net9.0\desafios-de-codigo.AssemblyInfoInputs.cache
+D:\Study\desafios-de-codigo\Desafio-C-sharp\obj\Debug\net9.0\desafios-de-codigo.AssemblyInfo.cs
+D:\Study\desafios-de-codigo\Desafio-C-sharp\obj\Debug\net9.0\desafios-de-codigo.csproj.CoreCompileInputs.cache
+D:\Study\desafios-de-codigo\Desafio-C-sharp\obj\Debug\net9.0\desafios-de-codigo.sourcelink.json
+D:\Study\desafios-de-codigo\Desafio-C-sharp\obj\Debug\net9.0\desafios-de-codigo.dll
+D:\Study\desafios-de-codigo\Desafio-C-sharp\obj\Debug\net9.0\refint\desafios-de-codigo.dll
+D:\Study\desafios-de-codigo\Desafio-C-sharp\obj\Debug\net9.0\desafios-de-codigo.pdb
+D:\Study\desafios-de-codigo\Desafio-C-sharp\obj\Debug\net9.0\desafios-de-codigo.genruntimeconfig.cache
+D:\Study\desafios-de-codigo\Desafio-C-sharp\obj\Debug\net9.0\ref\desafios-de-codigo.dll
